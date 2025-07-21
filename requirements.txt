@@ -1,0 +1,20 @@
+# AVA OLO Document Search Dependencies
+
+# AI/ML APIs
+openai==1.10.0
+
+# Vector Database
+pinecone-client==2.2.4
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+
+# Environment and Configuration
+python-dotenv==1.0.0
+
+# Additional utilities
+pydantic==2.5.3
+
+# Logging
+structlog==23.2.0
